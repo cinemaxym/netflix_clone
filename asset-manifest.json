@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/netflix_clone/static/css/main.82445491.css",
-    "main.js": "/netflix_clone/static/js/main.eea5b477.js",
+    "main.js": "/netflix_clone/static/js/main.b50786ed.js",
     "static/js/787.4cad26a9.chunk.js": "/netflix_clone/static/js/787.4cad26a9.chunk.js",
     "static/media/love-death-robots.jpg": "/netflix_clone/static/media/love-death-robots.998a1f062e7490578222.jpg",
     "static/media/stranger-things.jpg": "/netflix_clone/static/media/stranger-things.b67ccaf04dd279a20715.jpg",
@@ -15,11 +15,11 @@
     "static/media/search-icon.svg": "/netflix_clone/static/media/search-icon.89e3d6fdb93e5cf82e3c20b70ae32f7b.svg",
     "static/media/play-icon.svg": "/netflix_clone/static/media/play-icon.8e59075cbf3cd7510f776a611648780e.svg",
     "main.82445491.css.map": "/netflix_clone/static/css/main.82445491.css.map",
-    "main.eea5b477.js.map": "/netflix_clone/static/js/main.eea5b477.js.map",
+    "main.b50786ed.js.map": "/netflix_clone/static/js/main.b50786ed.js.map",
     "787.4cad26a9.chunk.js.map": "/netflix_clone/static/js/787.4cad26a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82445491.css",
-    "static/js/main.eea5b477.js"
+    "static/js/main.b50786ed.js"
   ]
 }

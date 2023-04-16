@@ -1,0 +1,38 @@
+/* billboard css document */
+
+/* styling container-overlay */
+.container-overlay {
+    height: 80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 20px;
+}
+
+/* styling image-title */
+img.image-title {
+    width: 40%;
+}
+
+/* styling billboard-button-layer */
+.billboard-button-layer {
+    margin-top: 20px;
+}
+
+/* styling play-btn */
+.play-btn#play-btn {
+    padding: 5px 20px;
+    font-size: .9em;
+}
+/* styling more-btn */
+.more-btn#more-btn {
+    padding: 5px 20px;
+    font-size: .9em;
+}
+
+/* styling card-text */
+.card-text {
+    width: 45%;
+    font-size: .85em;
+    margin-top: 1rem;
+}

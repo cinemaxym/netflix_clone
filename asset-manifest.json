@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/netflix_clone/static/css/main.82445491.css",
+    "main.js": "/netflix_clone/static/js/main.eea5b477.js",
+    "static/js/787.4cad26a9.chunk.js": "/netflix_clone/static/js/787.4cad26a9.chunk.js",
+    "static/media/love-death-robots.jpg": "/netflix_clone/static/media/love-death-robots.998a1f062e7490578222.jpg",
+    "static/media/stranger-things.jpg": "/netflix_clone/static/media/stranger-things.b67ccaf04dd279a20715.jpg",
+    "static/media/anne.jpg": "/netflix_clone/static/media/anne.53c159e51bf70fdd8d33.jpg",
+    "static/media/haunting.jpg": "/netflix_clone/static/media/haunting.9dfb5b742b975c5376aa.jpg",
+    "static/media/lockwood.jpg": "/netflix_clone/static/media/lockwood.039b1692ca9bc2ef1344.jpg",
+    "static/media/Netflix-Logo.svg": "/netflix_clone/static/media/Netflix-Logo.7944d26b75f3988ed9f113c8643d981e.svg",
+    "static/media/notifications-icon.svg": "/netflix_clone/static/media/notifications-icon.001bf03cd304c9ec68eb5322b1d5d23a.svg",
+    "index.html": "/netflix_clone/index.html",
+    "static/media/info-icon.svg": "/netflix_clone/static/media/info-icon.38991ed0570698538a9ef6cd8504cee8.svg",
+    "static/media/search-icon.svg": "/netflix_clone/static/media/search-icon.89e3d6fdb93e5cf82e3c20b70ae32f7b.svg",
+    "static/media/play-icon.svg": "/netflix_clone/static/media/play-icon.8e59075cbf3cd7510f776a611648780e.svg",
+    "main.82445491.css.map": "/netflix_clone/static/css/main.82445491.css.map",
+    "main.eea5b477.js.map": "/netflix_clone/static/js/main.eea5b477.js.map",
+    "787.4cad26a9.chunk.js.map": "/netflix_clone/static/js/787.4cad26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82445491.css",
+    "static/js/main.eea5b477.js"
+  ]
+}

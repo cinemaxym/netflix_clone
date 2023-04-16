@@ -9,6 +9,7 @@ function Footer() {
                     className="social-link"
                     href="https://www.facebook.com/NetflixUK"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="facebook"
                 >
                     <svg
@@ -31,6 +32,7 @@ function Footer() {
                     className="social-link"
                     href="https://www.instagram.com/NetflixUK"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="instagram"
                 >
                     <svg
@@ -53,6 +55,7 @@ function Footer() {
                     className="social-link"
                     href="https://twitter.com/NetflixUK"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="twitter"
                 >
                     <svg
@@ -75,6 +78,7 @@ function Footer() {
                     className="social-link"
                     href="https://www.youtube.com/user/netflixuk"
                     target="_blank"
+                    rel="noreferrer"
                     aria-label="youtube"
                 >
                     <svg
